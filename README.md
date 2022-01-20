@@ -1,6 +1,6 @@
 # Learning PyTorch
 
-## [Official tutorial](https://pytorch.org/tutorials/)
+### [Official tutorial](https://pytorch.org/tutorials/)
 
 ### Notebooks
 
